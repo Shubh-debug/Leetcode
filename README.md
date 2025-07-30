@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubh-debug/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Shubh-debug/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shubh-debug/Leetcode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shubh-debug/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubh-debug/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubh-debug/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/Shubh-debug/Leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shubh-debug/Leetcode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shubh-debug/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
