@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shubh-debug/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shubh-debug/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shubh-debug/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shubh-debug/Leetcode/tree/master/0268-missing-number) |
