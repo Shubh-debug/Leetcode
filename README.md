@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shubh-debug/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shubh-debug/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shubh-debug/Leetcode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/Shubh-debug/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubh-debug/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Shubh-debug/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shubh-debug/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Shubh-debug/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shubh-debug/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shubh-debug/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Shubh-debug/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
