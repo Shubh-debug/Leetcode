@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shubh-debug/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubh-debug/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shubh-debug/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Shubh-debug/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shubh-debug/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shubh-debug/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubh-debug/Leetcode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Shubh-debug/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Shubh-debug/Leetcode/tree/master/1013-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shubh-debug/Leetcode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shubh-debug/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
